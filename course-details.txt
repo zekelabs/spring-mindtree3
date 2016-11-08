@@ -7,6 +7,8 @@
 7. Spring Validation
 8. Spring REST
 9. Spring WebSocket
-10. Spring Hibernate DAO Integration
-11. Accessing Twitter feeds
-12. Spring Boot
+10. Spring Hibernate-DAO-JDBC Integration
+11. Spring Boot
+12. Spring Schedular, Batch
+13. Spring Transaction
+14. Accessing Twitter feeds
