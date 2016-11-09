@@ -2,13 +2,14 @@
 2. Spring MVC - Static Resources, Rendering templates, Images, Form Upload
 3. Spring AOP - Custom Annotation
 4. Spring MVC - File Upload/ Download
-5. Spring Security
-6. Spring JUnit
-7. Spring Validation
-8. Spring REST
-9. Spring WebSocket
-10. Spring Hibernate-DAO-JDBC Integration
-11. Spring Boot
-12. Spring Schedular, Batch
-13. Spring Transaction
-14. Accessing Twitter feeds
+5. Accessing Twitter feeds
+6. Spring Security
+7. Spring JUnit,  Logging
+8. Spring Validation
+9. Spring REST, Interceptor
+10. Spring WebSocket
+11. Spring Hibernate-DAO-JDBC Integration
+12. Spring Boot
+13. Spring Schedular, Batch
+14. Spring Transaction
+
