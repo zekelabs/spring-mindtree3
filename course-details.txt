@@ -6,7 +6,7 @@
 6. Spring Security
 7. Spring JUnit,  Logging
 8. Spring Validation
-9. Spring REST
+9. Spring REST, Interceptor
 10. Spring WebSocket
 11. Spring Hibernate-DAO-JDBC Integration
 12. Spring Boot
