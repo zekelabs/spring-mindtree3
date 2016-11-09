@@ -4,7 +4,7 @@
 4. Spring MVC - File Upload/ Download
 5. Accessing Twitter feeds
 6. Spring Security
-7. Spring JUnit
+7. Spring JUnit,  Logging
 8. Spring Validation
 9. Spring REST
 10. Spring WebSocket
