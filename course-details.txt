@@ -3,13 +3,15 @@
 3. Spring AOP - Custom Annotation
 4. Spring MVC - File Upload/ Download
 5. Accessing Twitter feeds
-6. Spring Security
+6. Spring Security, Interceptor and filter
 7. Spring JUnit,  Logging
 8. Spring Validation
-9. Spring REST, Interceptor
+9. Spring REST,
 10. Spring WebSocket
 11. Spring Hibernate-DAO-JDBC Integration
 12. Spring Boot
 13. Spring Schedular, Batch
 14. Spring Transaction
+
+15. EJB to Spring Conversion
 
