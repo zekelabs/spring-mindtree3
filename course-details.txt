@@ -13,3 +13,5 @@
 13. Spring Schedular, Batch
 14. Spring Transaction
 
+15. EJB to Spring Conversion
+
